@@ -27,7 +27,7 @@ Then, in your browser, you can go to:
 
 You will see the visdom interface:
 
-![](visdom-main.png =200)
+![](visdom-main.png)
 
 ## Let's plot something!
 
