@@ -27,7 +27,9 @@ Then, in your browser, you can go to:
 
 You will see the visdom interface:
 
-<img src="https://github.com/noagarcia/visdom-tutorial/blob/master/visdom-main.png" alt="visdom" width="200"/>
+<p align="center">
+<img src="https://github.com/noagarcia/visdom-tutorial/blob/master/visdom-main.png" alt="visdom" width="460"/>
+</p>
 
 
 ## Let's plot something!
