@@ -101,6 +101,9 @@ And that's it! Simple, isn't it?
 
 Now we can check the graphs at any point by visiting the visdom interface at http://localhost:8097 as long as the visdom server is still running.
 
+<p align="center">
+<img src="https://github.com/noagarcia/visdom-tutorial/blob/master/visdom-plots.png" alt="visdom" width="460"/>
+</p>
 
 
 
